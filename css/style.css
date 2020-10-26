@@ -1,0 +1,35 @@
+.page-background {
+    background-color: grey;
+    text-align: center;
+}
+
+.section-box {
+    background-color: white;
+    width: 90%;
+    display: inline-block;
+}
+
+.table-margins {
+    display: inline-block;
+    text-align: center;
+}
+
+.link-list-table {
+    margin: auto;
+}
+
+.link-cell {
+    font-weight: bold;
+}
+
+.spacer-vertical {
+    height: 20px;
+}
+
+.spacer-horizontal {
+    width: 20px;
+}
+
+.div-header {
+    text-align: center;
+}
