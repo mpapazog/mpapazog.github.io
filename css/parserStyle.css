@@ -1,0 +1,23 @@
+.text-panel {
+    height: 40vh !important;
+    width: 40vw !important;
+    border: 1px solid;
+    overflow-y: auto;
+}
+
+.spacer-vertical {
+    height: 5vh;
+}
+.spacer-horizontal {
+    width: 3vw;
+}
+
+.text-input {
+    width: 20vw;
+}
+
+.log-window {
+    width: 100%;
+    height: 20vh;
+    overflow-y: auto;
+}
